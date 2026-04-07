@@ -1,0 +1,13 @@
+com/artgallery/backend/config/SecurityConfig$1.class
+com/artgallery/backend/BackendApplication.class
+com/artgallery/backend/repository/UserRepository.class
+com/artgallery/backend/repository/ExhibitionRepository.class
+com/artgallery/backend/model/User.class
+com/artgallery/backend/repository/ArtworkRepository.class
+com/artgallery/backend/model/Exhibition.class
+com/artgallery/backend/controller/ArtworkController.class
+com/artgallery/backend/controller/ExhibitionController.class
+com/artgallery/backend/config/SecurityConfig.class
+com/artgallery/backend/config/DataSeeder.class
+com/artgallery/backend/controller/AuthController.class
+com/artgallery/backend/model/Artwork.class

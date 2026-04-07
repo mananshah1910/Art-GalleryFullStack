@@ -1,0 +1,12 @@
+/Users/mananshah/Desktop/Art Gallery/Art-Gallery-Backend/src/main/java/com/artgallery/backend/BackendApplication.java
+/Users/mananshah/Desktop/Art Gallery/Art-Gallery-Backend/src/main/java/com/artgallery/backend/config/DataSeeder.java
+/Users/mananshah/Desktop/Art Gallery/Art-Gallery-Backend/src/main/java/com/artgallery/backend/config/SecurityConfig.java
+/Users/mananshah/Desktop/Art Gallery/Art-Gallery-Backend/src/main/java/com/artgallery/backend/controller/ArtworkController.java
+/Users/mananshah/Desktop/Art Gallery/Art-Gallery-Backend/src/main/java/com/artgallery/backend/controller/AuthController.java
+/Users/mananshah/Desktop/Art Gallery/Art-Gallery-Backend/src/main/java/com/artgallery/backend/controller/ExhibitionController.java
+/Users/mananshah/Desktop/Art Gallery/Art-Gallery-Backend/src/main/java/com/artgallery/backend/model/Artwork.java
+/Users/mananshah/Desktop/Art Gallery/Art-Gallery-Backend/src/main/java/com/artgallery/backend/model/Exhibition.java
+/Users/mananshah/Desktop/Art Gallery/Art-Gallery-Backend/src/main/java/com/artgallery/backend/model/User.java
+/Users/mananshah/Desktop/Art Gallery/Art-Gallery-Backend/src/main/java/com/artgallery/backend/repository/ArtworkRepository.java
+/Users/mananshah/Desktop/Art Gallery/Art-Gallery-Backend/src/main/java/com/artgallery/backend/repository/ExhibitionRepository.java
+/Users/mananshah/Desktop/Art Gallery/Art-Gallery-Backend/src/main/java/com/artgallery/backend/repository/UserRepository.java
