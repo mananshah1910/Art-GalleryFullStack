@@ -18,7 +18,7 @@ public class User {
     private String name;
 
     @Column(nullable = false)
-    private String role; // visitor, artist, curator, admin
+    private String role;
 
     public User() {}
 
