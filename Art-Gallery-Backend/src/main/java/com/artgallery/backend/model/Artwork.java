@@ -21,7 +21,7 @@ public class Artwork {
     private String image;
     
     @Column(nullable = false)
-    private String status; // pending, approved
+    private String status;
 
     public Artwork() {}
 
